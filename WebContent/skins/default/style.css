@@ -1,0 +1,17 @@
+@CHARSET "UTF-8";
+
+*{margin:0;padding:0;list-style:none;}
+
+body {
+	line-height: 1.5;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	margin-top: 0px;
+	margin-right: auto;
+	margin-bottom: 0px;
+	margin-left: auto;
+}
+img
+{
+  border:0;
+}
